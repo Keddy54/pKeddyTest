@@ -1,0 +1,5 @@
+Git 
+init creates .git directory
+add . ~ Adds all
+Log shows log of all commits shown in
+Status
