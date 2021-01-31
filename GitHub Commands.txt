@@ -3,7 +3,7 @@ init creates .git directory
 add . ~ Adds all
 Log shows log of all commits shown in
 Status
-Log --oneline -5
+Log --oneline -5 
 
 Git branch to view list of branch, and to create a new branch
 
@@ -26,4 +26,4 @@ AWS secrets manager
 Envelope encryption 
 Other tools along side with Jenkins, Docker, Ansible   
 
-Yep
+
