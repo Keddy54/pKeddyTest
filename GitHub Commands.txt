@@ -22,4 +22,4 @@ I'm behind on my dreams
 
 AWS secrets manager 
 Envelope encryption 
-Other tools along side with Jenkins, Docker, Ansible 
+Other tools along side with Jenkins, Docker, Ansible  
