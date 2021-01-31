@@ -9,7 +9,7 @@ Git branch to view list of branch, and to create a new branch
 
 
 Git checkout {branch name}
-
+Git checkout -b {branch name} 
 
 
 Verify site ownership
