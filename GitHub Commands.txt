@@ -3,3 +3,18 @@ init creates .git directory
 add . ~ Adds all
 Log shows log of all commits shown in
 Status
+Log --oneline
+
+Git branch to view list of branch, and to create a new branch
+
+
+Git checkout {branch name}
+
+
+
+Verify site ownership
+
+
+
+
+I'm behind on my dreams
