@@ -3,7 +3,7 @@ init creates .git directory
 add . ~ Adds all
 Log shows log of all commits shown in
 Status
-Log --oneline
+Log --oneline -5
 
 Git branch to view list of branch, and to create a new branch
 
@@ -11,6 +11,8 @@ Git branch to view list of branch, and to create a new branch
 Git checkout {branch name}
 Git checkout -b {branch name} 
 
+
+Git fetch 
 
 Verify site ownership
 
